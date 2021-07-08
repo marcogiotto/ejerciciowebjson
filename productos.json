@@ -1,0 +1,8 @@
+
+[
+    {"nombre": "Model 3", "precio": 32000, "color": "verde"},
+    {"nombre": "Model S", "precio": 65000, "color": "azul"},
+    {"nombre": "Model X", "precio": 99000, "color": "rojo"}
+]
+
+
